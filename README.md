@@ -1,5 +1,5 @@
 
-![Banner de Perfil](greenbanner.jpg)
+![Banner](./greenbanner.jpg)
 
 # ¡Hola! Soy Ronaldo Paredes Avila 👋
 
