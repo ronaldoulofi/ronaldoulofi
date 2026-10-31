@@ -1,5 +1,5 @@
 
-![Banner](./greenbanner.jpg)
+![Banner](./🍃.jpg)
 
 # ¡Hola! Soy Ronaldo Paredes Avila 👋
 
