@@ -1,5 +1,5 @@
-<!-- 🖼️ Banner (Reemplaza la URL por la imagen que elijas) -->
-![Banner de Perfil](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+perfil+de+GitHub)
+
+![Banner de Perfil](greenbanner.jpg)
 
 # ¡Hola! Soy Ronaldo Paredes Avila 👋
 
@@ -37,8 +37,8 @@ Me apasiona el análisis de datos, la arquitectura en la nube y el desarrollo de
 ### 📈 Estadísticas de GitHub
 <!-- Reemplaza "TU_USUARIO" con tu nombre de usuario real de GitHub en ambos enlaces -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldoulofi&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoulofi&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
@@ -48,17 +48,4 @@ Me apasiona el análisis de datos, la arquitectura en la nube y el desarrollo de
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /> **LinkedIn:** [linkedin.com/in/tu-perfil](URL_DE_TU_LINKEDIN)
 - ✉️ **Email:** [tu-correo@email.com](mailto:tu-correo@email.com)
 
-<!--
-**ronaldoulofi/ronaldoulofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
