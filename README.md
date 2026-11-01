@@ -1,51 +1,44 @@
+![Banner](./nombre-de-tu-imagen.jpg)
 
-![Banner](./🍃.jpg)
+<h1 align="center">About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
 
-# ¡Hola! Soy Ronaldo Paredes Avila 👋
+Soy estudiante próximo a ser Ingeniero Empresarial y de Sistemas, Orientado al desarrollo de soluciones tecnológicas optimizadas e innovadoras. Me interesa el mundo de Data Science, el desarrollo de modelos ML, la ingeniería de datos y analítica, soluciones y arquitectura en la nube. También me entusiasma enormemente aprender sobre Bioingeniería, la fusión del software con la biología en ramas como Bioinformática, Biocomputación, etc.  
 
-👨‍💻 **Estudiante de 9no ciclo de Ingeniería Empresarial y de Sistemas**  
-📍 Basado en Perú
+- Actualmente aprendo más sobre Machine Learning, Ingeniería de Datos, Redes neuronales, Databricks, etc.
 
-Me apasiona el análisis de datos, la arquitectura en la nube y el desarrollo de modelos de Machine Learning. Actualmente estoy enfocando mi aprendizaje en certificarme como **Microsoft PL-300 (Power BI Data Analyst)** y en construir proyectos que integren analítica predictiva y optimización de infraestructura cloud.
+## Skills
 
----
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+</span>
 
-### 🛠️ Tecnologías y Herramientas
+<h4> ML / AI </h4>
+<span>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</span>
 
-**Lenguajes y Bases de Datos:**
-- Python, SQL, PostgreSQL
-
-**Data, Cloud y Arquitectura:**
-- Power BI, Microsoft Fabric (OneLake, Lakehouse)
-- Amazon Web Services (EC2, S3), Supabase
-- REST APIs, Kubernetes (KEDA, HPA)
-
-**Machine Learning:**
-- Scikit-learn, Random Forest
-
----
-
-### 🚀 Proyectos Destacados
-
-- **Predicción de Precios de Criptomonedas:** Extracción y análisis exploratorio de datos (EDA) de velas OHLCV desde Binance US utilizando la librería `ccxt` en Python para el desarrollo de un modelo predictivo.
-- **Predicción Climática con Machine Learning:** Modelo entrenado con Random Forest utilizando datos históricos de un año en 6 ciudades, evaluado mediante métricas de rendimiento MAE y RMSE.
-- **Modelado de Autoscaling en AWS:** Modelo económico paramétrico y de investigación comparando Kubernetes Event-driven Autoscaling (KEDA) con Horizontal Pod Autoscaler (HPA) en infraestructura cloud.
-- **Arquitectura Cloud para Proloint:** Diseño de propuestas técnicas y económicas mediante diagramas XML (draw.io) para comparar despliegues en AWS (EC2, S3) frente a servidores físicos locales.
-
----
-
-### 📈 Estadísticas de GitHub
-<!-- Reemplaza "TU_USUARIO" con tu nombre de usuario real de GitHub en ambos enlaces -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldoulofi&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoulofi&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
----
-
-### 📫 Conecta conmigo
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /> **LinkedIn:** [linkedin.com/in/tu-perfil](URL_DE_TU_LINKEDIN)
-- ✉️ **Email:** [tu-correo@email.com](mailto:tu-correo@email.com)
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
 
 
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</span>
+
+<h4> Conexión </h4>
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/ronaldoparedes/)
+
+</h4>
